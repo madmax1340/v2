@@ -1,2 +1,2 @@
 # v2
-new website. not online yet
+new website. Home of the RASBYS
