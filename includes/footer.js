@@ -1,2 +1,2 @@
-/*footer
-document.write('<footer class="page-footer font-small blue"><div>© 2020 Copyright:<a href="https://streetduck.netlify.app"> Street Duck</a></div></footer>');*/
+/*footer*/
+document.write('<footer class="navbar footer fixed-bottom container-fluid text-center"><p>Rasby Media 2020</p></footer>');

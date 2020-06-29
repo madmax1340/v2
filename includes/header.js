@@ -1,1 +1,4 @@
-document.write('<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">');
+//extra links
+document.write('<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="styles.css">');
+//navbar
+document.write('<nav class="navbar navbar-inverse"><div class="container-fluid"><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="https://rasbys.netlify.com">Rasbys</a></div><div class="navbar-collapse collapse " id="myNavbar"><ul class="nav navbar-nav"><li class="active"><a href="https://rasbys.netlify.com">Home</a></li><li><a href="../browse.html">Browse</a></li><li><a href="../members.html">Members</a></li><li><a href="../contact.html">Contact</a></li></ul><ul class="nav navbar-nav navbar-right"><li><a href="../login.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li></ul></div></div></nav>');
