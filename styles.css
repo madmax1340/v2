@@ -1,23 +1,15 @@
-    /*No Margin after Navbar, Removes rounded corners*/
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
-    
-    /* lightgrey background and some padding for footer */
-    footer {
-      background-color: lightgrey;
-      padding: 12px;
-    }
-    /*Image for title*/
-    .jumbotron {
-      background-image: url("rasbys.jpg");
-      background-size: cover;
-    }
-    /*footer that stays at bottom*/
-    .footer {
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
-    }
+/*No Margin after Navbar, Removes rounded corners*/
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}   
+/*Image for title*/
+.jumbotron {
+  background-image: url("rasbys.jpg");
+  background-size: cover;
+}
+/*footer that stays at bottom*/
+.footer {
+  position: fixed;
+  bottom: 0;
+}
