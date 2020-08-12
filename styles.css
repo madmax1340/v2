@@ -5,7 +5,7 @@
 }   
 /*Image for title*/
 .jumbotron {
-  background-image: url("rasbys.jpg");
+  background-image: url("blankbanner.jpg");
   background-size: cover;
 }
 /*footer that stays at bottom*/
