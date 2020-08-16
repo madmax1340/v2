@@ -13,3 +13,9 @@
   position: fixed;
   bottom: 0;
 }
+a {
+  color: white;
+}
+a :hover {
+  color: white;
+}
